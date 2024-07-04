@@ -31,8 +31,8 @@ Pasii pentru push:
 
 Alte Informatii ajutatoare:
 Cand o sa va copiati(git clone) prima oara proiectul local o sa trebuiasca sa deschideti un terminal in Vscode si sa executati comanda:
-npm install
+**npm install**
 asta o sa va installeze toate dependintele local.
-dependintele le puteti vedea in package.json si package-lock.json(asta e o versiune mai detaliata a package.json dar si cu versiunile blocate, pt a avea consistenta indeferent unde rulam app-ul)
+dependintele le puteti vedea in package.json si package-lock.json(asta e o versiune mai detaliata a package.json dar si cu versiunile blocate, pt a avea consistenta indeferent unde rulam app-ul). Dependintele sunt installe in folderul node_modules, deci si asta trebuie sa apara local dupa ce rulati **npm install**
 ![image](https://github.com/dancbarbu/arome-locale/assets/13649172/c9750350-95af-4dd8-8c39-7394de90f629)
 
