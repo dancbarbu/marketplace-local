@@ -18,6 +18,7 @@ FRESHTECH-6-FE-Product-Listing-descriere-optionala
 * 4 si 5 se pot face cu o singura comanda git checkout -b branch-name, comanda asta va si creeaza un branch si va si muta
 
 **alte comenzi ajutatoare**
+
 git branch > va arata pe ce branch sunteti
 git status > va arata ce fisiere au fost modificate local sau adaugate local
 git restore file-name > va sterge toate modificarile locale in fisierul respectiv pana la ultimul commit
@@ -29,7 +30,7 @@ Pasii pentru push:
 4. verficati in github branch-ul si o sa puteti sa deschideti un Pull Request pentru a merge-ui branch-ul vostru in branch-ul main
 5. ma adaugati pe mine ca review-er, pe voi optional
 
-Alte Informatii ajutatoare:
+# Alte Informatii ajutatoare:
 Cand o sa va copiati(git clone) prima oara proiectul local o sa trebuiasca sa deschideti un terminal in Vscode si sa executati comanda:
 
 **npm install**
