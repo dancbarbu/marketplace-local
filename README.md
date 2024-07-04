@@ -28,3 +28,11 @@ Pasii pentru push:
 3. git push origin branch-name(branch-ul pe care sunteti si in care ati lucrat)
 4. verficati in github branch-ul si o sa puteti sa deschideti un Pull Request pentru a merge-ui branch-ul vostru in branch-ul main
 5. ma adaugati pe mine ca review-er, pe voi optional
+
+Alte Informatii ajutatoare:
+Cand o sa va copiati(git clone) prima oara proiectul local o sa trebuiasca sa deschideti un terminal in Vscode si sa executati comanda:
+npm install
+asta o sa va installeze toate dependintele local.
+dependintele le puteti vedea in package.json si package-lock.json(asta e o versiune mai detaliata a package.json dar si cu versiunile blocate, pt a avea consistenta indeferent unde rulam app-ul)
+![image](https://github.com/dancbarbu/arome-locale/assets/13649172/c9750350-95af-4dd8-8c39-7394de90f629)
+
